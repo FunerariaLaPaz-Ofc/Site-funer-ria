@@ -1,4 +1,4 @@
-# Site Funerária Paz Eterna
+# Site Funerária Lá Paz
 
 
 Projeto simples de site institucional para funerária.
